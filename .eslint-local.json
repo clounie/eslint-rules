@@ -1,0 +1,10 @@
+{
+  "globals": {
+
+  },
+  "rules": {
+    "array-bracket-spacing": 0,
+    "key-spacing": 0
+  },
+  "extends": "./.eslintrc.js"
+}
